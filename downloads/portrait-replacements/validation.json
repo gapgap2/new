@@ -1,43 +1,65 @@
 {
+  "identification_basis": "User supplied three reference photos; visual comparison, not AGF embedded names",
+  "inventory_photo2_match": 54,
+  "inventory_photo3_candidate": 168,
+  "gundari_inventory_portrait": "Newly drawn from character appearance; not extracted from an original inventory slot",
+  "old_slot_16_identification_retracted": true,
+  "total_verified_frames": 900,
+  "total_unchanged_raw_records": 896,
+  "game_execution_tested": false,
+  "remaining_scope": "Original eye-strip slots corresponding to the gray deity in photo 2 are not identified in supplied l2/s2; other mercenary portrait atlases needed",
   "files": [
     {
       "file": "portrait_mercenary_l2.AGF",
+      "changed_slots": [
+        14
+      ],
+      "unchanged_raw_records": 299,
+      "frame_count": 300,
       "canvas": [
         84,
         32
       ],
-      "frames": 300,
-      "changed_frames": [
-        14,
-        16
-      ],
-      "untouched_frames_binary_identical": 298,
-      "rectangles_preserved": true,
-      "all_frames_decoded_verified": true,
-      "replacement_sha256": "f559882132db58f5a59bd461fbfbe3396093ec3f7fdb452cc647fa5368db79f3",
+      "all_rectangles_preserved": true,
+      "all_decoded_frames_verified": true,
+      "slot_16_restored_to_original": true,
+      "replacement_sha256": "437f68b58707d8d04ea8cd882a973ec260f041546f0e2d08beb70eb87fc29b1a",
       "restore_sha256": "4c32f1fb814c1e7fea6ad83fd361ce3e82c1da4e5999e01016ce4390b5c8a275"
     },
     {
       "file": "portrait_mercenary_s2.AGF",
+      "changed_slots": [
+        14
+      ],
+      "unchanged_raw_records": 299,
+      "frame_count": 300,
       "canvas": [
         72,
         26
       ],
-      "frames": 300,
-      "changed_frames": [
-        14,
-        16
-      ],
-      "untouched_frames_binary_identical": 298,
-      "rectangles_preserved": true,
-      "all_frames_decoded_verified": true,
-      "replacement_sha256": "31c70ca85d619609899ac3a757b973b12b789e34afc1cbeea2212d21eca9006c",
+      "all_rectangles_preserved": true,
+      "all_decoded_frames_verified": true,
+      "slot_16_restored_to_original": true,
+      "replacement_sha256": "754b9eff73642133c0cf14ac76d444de95ba463e3cc352f232a0faa8f9d4c64e",
       "restore_sha256": "8423a4cb46b5c5d33619a3c731b245aaf8f73aced63588fca5d5976f58fba4eb"
+    },
+    {
+      "file": "PORTRAIT_INVEN_4.AGF",
+      "changed_slots": [
+        54,
+        168
+      ],
+      "unchanged_raw_records": 298,
+      "frame_count": 300,
+      "canvas": [
+        80,
+        80
+      ],
+      "all_rectangles_preserved": true,
+      "all_decoded_frames_verified": true,
+      "slot_16_restored_to_original": false,
+      "replacement_sha256": "4e5dbb82958afd3b1766a3a5ce69072eb7d704c3aa9db998b327a6c9cf2d6f90",
+      "restore_sha256": "dc9d2e9f2d4e9a3000fbf6f9aa37eab47e052640dbdf75a06b706c884acef3d7"
     }
-  ],
-  "changed_slots_total": 4,
-  "inventory_atlas_modified": false,
-  "inventory_atlas_target_identification": "Targets not identified in supplied PORTRAIT_INVEN_4.AGF; remaining portrait atlases required",
-  "game_execution_tested": false,
-  "scope": "Partial patch: two eye-strip atlases only"
+  ]
 }
