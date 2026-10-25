@@ -1,0 +1,371 @@
+{
+  "agf_files": 10,
+  "voice_files": 5,
+  "source_agf_frames": 456,
+  "original_target_agf_frames": 438,
+  "duplicate_pairs_verified_identical": 30,
+  "original_source_binaries_unchanged": true,
+  "game_execution_tested": false,
+  "files": [
+    {
+      "source": "GUNDARI_GS_N.AGF",
+      "target": "vidyaraja_acala_n.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 2155296,
+      "replacement_sha256": "f2f5f35eb10da0f003173e75d32015d4b9b378876537a547749dd014550aa7dd",
+      "restore_bytes": 999423,
+      "restore_sha256": "4a143c57ce0b12c212879dbb255c2ab9efc5c4833204c1c53016befa2b86039b",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 50,
+      "target_original_frames": 50,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_WB_N.AGF",
+      "target": "vidyaraja_acala_w_n.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 4083343,
+      "replacement_sha256": "118374c0a4a23b8496bf741bda75c0574ac61bdbb69ac7c53c99f33fdac7d315",
+      "restore_bytes": 1636454,
+      "restore_sha256": "b1e985be1aac4bebda994f2d8bcc30e59a36efa0a12a992f8abe27b2fecb650c",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 50,
+      "target_original_frames": 50,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_M.AGF",
+      "target": "vidyaraja_acala_m.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 2143829,
+      "replacement_sha256": "59991e2abf6228b4ac4c2e4d755a6fec7ededc87f3b85452f1c7c5b056ee9ea7",
+      "restore_bytes": 987291,
+      "restore_sha256": "ab0870907d044abb09e96026d5c3156f8cdc779c6c8e8f3b507a741d52c3a6c3",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 50,
+      "target_original_frames": 50,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_WB_M.AGF",
+      "target": "vidyaraja_acala_w_m.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 3773352,
+      "replacement_sha256": "0be1b4f938592006d51cbfd2acb396b7d6099378bfb95b84194c5895255ad587",
+      "restore_bytes": 1618261,
+      "restore_sha256": "f60215438bb2d489d7a0e34c65008addffa7f49213f3c8e2aeca2d697c4a67fc",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 50,
+      "target_original_frames": 50,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_A1.AGF",
+      "target": "vidyaraja_acala_a1.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 3702687,
+      "replacement_sha256": "93a22c056b1504f4ce3ced34a2bcd372bd174bc84f788548019b423843aa7d58",
+      "restore_bytes": 1335917,
+      "restore_sha256": "2457a327f4d6f5479e0c99b008077d8cbbfb5d9467c8c8246a3edb995ce48455",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 65,
+      "target_original_frames": 45,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_WB_A1.AGF",
+      "target": "vidyaraja_acala_w_a1.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 5973743,
+      "replacement_sha256": "6f2fe208e19740ea309751c77a085d83b7a1d135e4ee3ee2098d7aafbb325b19",
+      "restore_bytes": 1866490,
+      "restore_sha256": "fd671587274875d125a5337957c84f6cd0f63f9ffb90806a1c23efbe053087a9",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 65,
+      "target_original_frames": 45,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_A2.AGF",
+      "target": "vidyaraja_acala_a2.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 2761153,
+      "replacement_sha256": "791eb74566360f217b9fe54911a5d379f1bfd46f477a412218540f9df3323f6c",
+      "restore_bytes": 1676427,
+      "restore_sha256": "f2cbc2627acbb2d33c29c6a19bbe3f7244fed72a2e5045ec76460093d505dee8",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 50,
+      "target_original_frames": 60,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_WB_A2.AGF",
+      "target": "vidyaraja_acala_w_a2.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 4121121,
+      "replacement_sha256": "9de98817dbf49c74e4d6a8b5506daf309916a975e96b041a9ff2684ee30127cf",
+      "restore_bytes": 2317506,
+      "restore_sha256": "42210cf0be754d7dd8d8157e4774c5925052810d6d75a4ad6290db2ce73582dc",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 50,
+      "target_original_frames": 60,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_D.AGF",
+      "target": "vidyaraja_acala_d.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 693983,
+      "replacement_sha256": "3dfa7f85e5a867684e995d4080aed250d0e076e8ee313ea7c857ab1ef8ab9e83",
+      "restore_bytes": 248182,
+      "restore_sha256": "9b13e43fe58f0043709a59e5f7e88e7ee8bae973c893b0b3e5d92e5008306cba",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 13,
+      "target_original_frames": 14,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_WB_D.AGF",
+      "target": "vidyaraja_acala_w_d.AGF",
+      "folder": "AGF",
+      "replacement_bytes": 981876,
+      "replacement_sha256": "939a616289923c946fa81c5b12716081195e4190609d3833960690553b694b4e",
+      "restore_bytes": 484036,
+      "restore_sha256": "a9eef9049ef6a08c3dc129bbe33e8e62775d24de8a8ab9802ff15de914638b75",
+      "binary_copy_verified": true,
+      "source_canvas": [
+        450,
+        450
+      ],
+      "target_original_canvas": [
+        518,
+        380
+      ],
+      "source_frames": 13,
+      "target_original_frames": 14,
+      "all_source_frames_decoded": true,
+      "all_target_original_frames_decoded": true,
+      "source_frame_count_retained": true
+    },
+    {
+      "source": "GUNDARI_GS_SELECT1.YAV",
+      "target": "VIDYARAJA_Acala_select1.YAV",
+      "folder": "YAV",
+      "replacement_bytes": 231288,
+      "replacement_sha256": "6ee9ca24fbdd47f963d0eb00cf83f590f6b0fbb580129b37a7b635604aa69ac6",
+      "restore_bytes": 291412,
+      "restore_sha256": "e58e1b63cf80581a98451f229513a5f422a800ad98f90d6f1dfc1e79c0144893",
+      "binary_copy_verified": true,
+      "source_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 231262,
+        "duration_seconds": 2.622
+      },
+      "target_original_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 291386,
+        "duration_seconds": 3.304
+      }
+    },
+    {
+      "source": "GUNDARI_GS_SELECT2.YAV",
+      "target": "VIDYARAJA_Acala_select2.YAV",
+      "folder": "YAV",
+      "replacement_bytes": 270184,
+      "replacement_sha256": "1da82421588faf76abce0e2d07cd80cf84e58ad71b5a79ded1804a259ccc5757",
+      "restore_bytes": 307152,
+      "restore_sha256": "f6fe8d27f94c100525dcf62439cb36a0e2fa59fcd64255fdebae82bb805cc0d7",
+      "binary_copy_verified": true,
+      "source_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 270158,
+        "duration_seconds": 3.063
+      },
+      "target_original_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 307126,
+        "duration_seconds": 3.482
+      }
+    },
+    {
+      "source": "GUNDARI_GS_SELECT3.YAV",
+      "target": "VIDYARAJA_Acala_select3.YAV",
+      "folder": "YAV",
+      "replacement_bytes": 250956,
+      "replacement_sha256": "c8692d60c8578e33c8cea503f9fd0d92528c66cf297a7eb8ff61061f500247ba",
+      "restore_bytes": 218630,
+      "restore_sha256": "e7b40a6ef154ee07732b2c7bcaf15c8c4c04b59ab2434224d7c8c00c12f47b4d",
+      "binary_copy_verified": true,
+      "source_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 250930,
+        "duration_seconds": 2.845
+      },
+      "target_original_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 218604,
+        "duration_seconds": 2.479
+      }
+    },
+    {
+      "source": "GUNDARI_GS_ATTACK.YAV",
+      "target": "VIDYARAJA_Acala_attack.YAV",
+      "folder": "YAV",
+      "replacement_bytes": 122450,
+      "replacement_sha256": "de1c25877c8498aa443a250e6acb064ed5f9f2c19be4f0863bf3df6437ce1fc0",
+      "restore_bytes": 259252,
+      "restore_sha256": "8d8b229fbb80edbbb06ddc7c2d1a19651df16239c8d58f5b3fce2646c118a3e5",
+      "binary_copy_verified": true,
+      "source_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 122424,
+        "duration_seconds": 1.388
+      },
+      "target_original_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 259226,
+        "duration_seconds": 2.939
+      }
+    },
+    {
+      "source": "GUNDARI_GS_DEATH.YAV",
+      "target": "VIDYARAJA_Acala_die.YAV",
+      "folder": "YAV",
+      "replacement_bytes": 274594,
+      "replacement_sha256": "966183fa2a90752f1ac7e6118cb6bc7dd30cd9a2d5b62aee594167e431543038",
+      "restore_bytes": 180550,
+      "restore_sha256": "dffda424be5d2fe695fae2bca575282be8c53c68cc2e9db43fd358de9d2560b6",
+      "binary_copy_verified": true,
+      "source_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 274568,
+        "duration_seconds": 3.113
+      },
+      "target_original_audio": {
+        "codec": "PCM",
+        "channels": 1,
+        "sample_rate": 44100,
+        "bits": 16,
+        "data_bytes": 180524,
+        "duration_seconds": 2.047
+      }
+    }
+  ]
+}
