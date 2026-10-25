@@ -1,0 +1,43 @@
+{
+  "files": [
+    {
+      "file": "portrait_mercenary_l2.AGF",
+      "canvas": [
+        84,
+        32
+      ],
+      "frames": 300,
+      "changed_frames": [
+        14,
+        16
+      ],
+      "untouched_frames_binary_identical": 298,
+      "rectangles_preserved": true,
+      "all_frames_decoded_verified": true,
+      "replacement_sha256": "f559882132db58f5a59bd461fbfbe3396093ec3f7fdb452cc647fa5368db79f3",
+      "restore_sha256": "4c32f1fb814c1e7fea6ad83fd361ce3e82c1da4e5999e01016ce4390b5c8a275"
+    },
+    {
+      "file": "portrait_mercenary_s2.AGF",
+      "canvas": [
+        72,
+        26
+      ],
+      "frames": 300,
+      "changed_frames": [
+        14,
+        16
+      ],
+      "untouched_frames_binary_identical": 298,
+      "rectangles_preserved": true,
+      "all_frames_decoded_verified": true,
+      "replacement_sha256": "31c70ca85d619609899ac3a757b973b12b789e34afc1cbeea2212d21eca9006c",
+      "restore_sha256": "8423a4cb46b5c5d33619a3c731b245aaf8f73aced63588fca5d5976f58fba4eb"
+    }
+  ],
+  "changed_slots_total": 4,
+  "inventory_atlas_modified": false,
+  "inventory_atlas_target_identification": "Targets not identified in supplied PORTRAIT_INVEN_4.AGF; remaining portrait atlases required",
+  "game_execution_tested": false,
+  "scope": "Partial patch: two eye-strip atlases only"
+}
