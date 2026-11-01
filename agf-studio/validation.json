@@ -1,0 +1,109 @@
+{
+  "scope": "tool only; no user AGFs or generated costume animation included",
+  "files": 14,
+  "frames": 641,
+  "independent_python_js_pixels": "pass",
+  "browser_import_playback_png_replacement_download": "pass",
+  "browser_download_independent_python_verification": "pass",
+  "game_client_tested": false,
+  "files_validation": [
+    {
+      "name": "gwangmok_gs_d",
+      "count": 17,
+      "pixel_sha256": "14597947a704c450a22fe4845cf13910e7c7bb975056f9c4571b7f6d1f27b1e1",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_a",
+      "count": 60,
+      "pixel_sha256": "aa195764248a1116fd5534236c66e6c45555122d3e570a76bf0ae03d9d6aecc0",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_a2",
+      "count": 50,
+      "pixel_sha256": "21e8b9a284da4234e7b588b57a1b30ef18746736bd1b0a4b2abcb49ceea49407",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_m",
+      "count": 50,
+      "pixel_sha256": "7b28b77599c0902169e90bafe98a1913116f973a5814463960dbb2b1bf065352",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_n",
+      "count": 60,
+      "pixel_sha256": "d94585767d97d7ade93fcbc303c29109ea65ad6bc04c38ef7e0708a86ba0c091",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_sd_a",
+      "count": 50,
+      "pixel_sha256": "6f9059be235ff0a263f700809a13abfd95a68fdc8a3711303d09e12871982a08",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_sd_n",
+      "count": 50,
+      "pixel_sha256": "39ac957b3e6ed356c98f0d3d541af5020e3e8f04b8f4d0c0afc28d145e0cf804",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_sd_d",
+      "count": 17,
+      "pixel_sha256": "239634a5e14928dcad4d099046febcd7f99605a63a6b6e73eb705dc07973ea14",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_sd_m",
+      "count": 50,
+      "pixel_sha256": "f027322e1140a6cd3723def5001fc48af4695148bbb080da70e1b7915bfd610c",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_wb_d",
+      "count": 17,
+      "pixel_sha256": "63870ec849fea17179b3f9df02617549ef56a45cf4a5819cc3b183627db38271",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_wb_a2",
+      "count": 50,
+      "pixel_sha256": "becdaaf08b1b1f41ae40e333fcaaccd55bc1738686512d93e9a8fb2bd709a718",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_wb_a",
+      "count": 60,
+      "pixel_sha256": "7b0ee26e9e97565c004b8edf5c03f951c957856a45de7300a25243ebc2131aba",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_wb_n",
+      "count": 60,
+      "pixel_sha256": "36bf5abc5df93a4916734bad4e82874efb46bc8a278ba3eebf4897de0a5543c2",
+      "roundtrip": true,
+      "edited_frame": true
+    },
+    {
+      "name": "gwangmok_gs_wb_m",
+      "count": 50,
+      "pixel_sha256": "3ba17b303d056cb6df762b9b12b9b3910a0748a0bc7791121d60cc826cf8d158",
+      "roundtrip": true,
+      "edited_frame": true
+    }
+  ]
+}
